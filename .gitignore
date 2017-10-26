@@ -1,4 +1,5 @@
 #Ignora los binarios
 *.class
 #Ignora copias de seguridad
-
+# Ignora la documentacion
+*.doc
