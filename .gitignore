@@ -1,0 +1,4 @@
+#Ignora los binarios
+*.class
+#Ignora copias de seguridad
+
